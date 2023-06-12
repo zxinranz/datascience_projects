@@ -123,5 +123,5 @@ This is a dataset that contains reviews information posted by Yelp users on busi
 These data can be used to explore user behavior and interactions on Yelp, gaining insights into user feedback and evaluations of businesses. This information can be valuable for businesses and the Yelp platform to make improvements and optimizations.
 
 ## Data Cleaning
-
+![]()
 ## Customer Dimension
