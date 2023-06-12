@@ -108,6 +108,20 @@ These fields provide information about Yelp users, including their activity, eng
 
 ### `yelp_review.csv` 
 
+This is a dataset that contains reviews information posted by Yelp users on business pages. It typically includes the following fields:
+
+1. `review_id`: The ID of this review.
+2. `user_id`: The user ID of the user submitting the review.
+3. `business_id`: The business ID of the business receiving the review.
+4. `stars`: The stars given by the reviewer to the business.
+5. `date`: The date when the review was submitted.
+6. `text`: The text content of the review.
+7. `useful`: The "useful" rating given by users to the review.
+8. `funny`: The "funny" rating given by users to the review.
+9. `cool`: The "cool" rating given by users to the review.
+
+These data can be used to explore user behavior and interactions on Yelp, gaining insights into user feedback and evaluations of businesses. This information can be valuable for businesses and the Yelp platform to make improvements and optimizations.
+
 ## Data Cleaning
 
 ## Customer Dimension
