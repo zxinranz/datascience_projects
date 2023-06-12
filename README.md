@@ -154,3 +154,21 @@ It is also noticed that regardless of user type, the probability of receiving us
 Let's separately analyze the number of reviews that received more than 1000, 500, 200, and 100 useful votes. We'll calculate the average rating given by customers for those reviews and the average length of the reviews.
 
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%876.png)
+
+For reviews that received more than 1000 useful votes, there are a total of 11 reviews. On average, these reviews gave the restaurant a rating of 1.3 stars, and the average length of these reviews is 2204 words.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%877.png)
+
+For reviews that received more than 500 useful votes, there are a total of 36 reviews. On average, these reviews gave the restaurant a rating of 1.3 stars, and the average length of these reviews is 1456 words.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%878.png)
+
+For reviews that received more than 200 useful votes, there are a total of 138 reviews. On average, these reviews gave the restaurant a rating of 1.8 stars, and the average length of these reviews is 1342 words.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%879.png)
+
+For reviews that received more than 100 useful votes, there are a total of 408 reviews. On average, these reviews gave the restaurant a rating of 2.4 stars, and the average length of these reviews is 1479 words.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8710.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8711.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8712.png)
