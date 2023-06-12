@@ -188,3 +188,26 @@ The y-axis represents the corresponding highest rating values for each threshold
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8714.png)
 
 #### The most frequently reviewed states by users.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8716.png)
+
+#### The relationship between review count, photo count, and number of fans. Regarding the difference between elite users and non-elite users.
+
+*Elite users*
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8717.png)
+
+*Non-elite users*
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8718.png)
+
+Elite users have approximately 10 times the number of reviews compared to the number of their fans. The number of fans and the number of photos posted by elite users are relatively similar.
+
+On the other hand, for non-elite users, the number of reviews is approximately 28 times the number of their fans, while the number of photos posted is about 0.38 times the number of their fans.
+
+Comparing elite users and non-elite users, we can observe that the total number of reviews is similar between the two groups. However, elite users have a higher ability to attract fans through their reviews, indicating a higher probability of gaining followers. Elite users also post a significantly higher number of photos compared to non-elite users, approximately 6 times more. However, the number of fans is less than 3 times that of non-elite users, suggesting that photos are less likely to attract the attention of other users and have a lower probability of gaining followers.
+
+#### The difference lies in the number of fans between elite users and non-elite users
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8719.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8720.png)
