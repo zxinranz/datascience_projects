@@ -131,7 +131,26 @@ These data can be used to explore user behavior and interactions on Yelp, gainin
 
 ## Data Analysis 
 ### Customer Dimension
-![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%871.png)
-Based on the latest registration date.
-On average, how many reviews does an ordinary user post per month since creating their account? How many reviews does an elite user post on average per month?
-![]()
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%871.png) Based on the latest registration date.<br>
+
+#### On average, how many reviews does an ordinary user post per month since creating their account? How many reviews does an elite user post on average per month?
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%872.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%873.png)
+
+#### The number and proportion of reviews considered useful, funny, and cool?
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%874.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%875.png)
+
+It can be observed that on average, elite users post 2.98 reviews per month, which is approximately 10.2 times more than regular users.
+
+Elite users receive 2.10 times more useful evaluations, 1.14 times more funny evaluations, and 1.63 times more cool evaluations compared to the number of reviews they post. These figures are respectively 3.56, 5.43, and 7.76 times higher for elite users compared to regular users. Elite users have visited a significantly higher number of businesses and posted more reviews, and their reviews are more likely to receive praise. 
+
+It is also noticed that regardless of user type, the probability of receiving useful evaluations is much higher than receiving funny and cool evaluations. This indicates that users focus more on the content rather than the language style and wording when writing reviews. Other users, when reading reviews, also pay more attention to the usefulness of the content.
+
+#### Are reviews with a higher number of useful votes more positive or more negative? What are the characteristics of the review length for funny and cool evaluations?
+
+Let's separately analyze the number of reviews that received more than 1000, 500, 200, and 100 useful votes. We'll calculate the average rating given by customers for those reviews and the average length of the reviews.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%876.png)
