@@ -123,5 +123,11 @@ This is a dataset that contains reviews information posted by Yelp users on busi
 These data can be used to explore user behavior and interactions on Yelp, gaining insights into user feedback and evaluations of businesses. This information can be valuable for businesses and the Yelp platform to make improvements and optimizations.
 
 ## Data Cleaning
-![]()
-## Customer Dimension
+![](https://github.com/zxinranz/img-folder/blob/main/%E6%88%AA%E5%B1%8F2023-06-11%20%E4%B8%8B%E5%8D%8811.35.39.png)
+- For `yelp_business`, we check for missing values and outliers.
+- We remove businesses that are closed all seven days of the week and businesses with no business hours information (`yelp_business_hours`). 
+- For `yelp_checkins`, `yelp_review`, `yelp_tip`, and `yelp_user`, we examine for the presence of outliers. 
+- We remove user information from the table if it does not have a name, review, and registration information (`yelp_user`).
+
+## Data Analysis 
+### Customer Dimension
