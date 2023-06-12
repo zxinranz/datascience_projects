@@ -210,4 +210,29 @@ Comparing elite users and non-elite users, we can observe that the total number 
 #### The difference lies in the number of fans between elite users and non-elite users
 
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8719.png)
+
+On average, elite users have approximately 22 fans each, which is more than 45 times the number of fans for non-elite users. It can be speculated that when Yelp selects elite users each year, the number of fans is an important criterion. This is because the number of fans not only indicates the user's high reliance on the platform and their ability to provide more valuable information but also brings more traffic, which is vital for the survival of the platform.
+
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8720.png)
+
+The total number of fans for non-elite users is approximately 0.47 times the number of non-elite users, with an average of less than 1 fan per person. This indicates that a significant number of non-elite users do not have any fans.
+
+### Business Dimension
+
+#### Number of restaurants by star rating? Average star rating of restaurants? What is the relationship between the number of stars and ratings, the average rating, and the number of good and bad ratings?
+
+First, we calculate the average star rating of the restaurants.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8721.png)
+
+Since the star rating ranges from 1 to 5 stars, with each 0.5-star increment considered as a category, the average star rating of the restaurants is expected to be around 3 stars if the ratings follow a normal distribution. However, the data shows that the average rating is higher than 3 stars, indicating that the majority of restaurants have received ratings of 3 stars or higher. This suggests that the platform tends to assign higher star ratings to restaurants and is less inclined to give lower ratings.
+
+Next, we count the number of restaurants in each star rating:
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8723.png)
+
+The histogram approximately follows a left-skewed distribution, indicating that there are more high-rated restaurants compared to low-rated ones, which aligns with the information provided by the mean. We can observe that the highest number of restaurants has a rating of 4.0, accounting for 19.19% of the total, closely followed by 3.5-rated restaurants at 18.35%. The majority of restaurants have managed to satisfy their customers to a considerable extent.<br>
+It is noteworthy that there is a significant number of 5-star restaurants, with 15.78% of all restaurants belonging to this category, even surpassing the number of 4.5-star restaurants. On one hand, user ratings can influence a restaurant's star rating. When users have an exceptional dining experience, they tend to give a perfect rating to express their appreciation, support, and fondness, often overlooking any flaws the restaurant may have. In such cases, the restaurant's shortcomings are typically seen as insignificant or overshadowed by its positive aspects.<br>
+On the other hand, the platform itself may be inclined to promote 5-star restaurants over those with a rating of 4.5 stars. This benefits the platform's advertising efforts since a perfect score serves as a compelling selling point compared to a rating of 4.5 stars. Additionally, restaurants that are actively promoted by the platform can offer exclusive deals or discounts on the Yelp platform, thereby reciprocating their appreciation to the platform and attracting a substantial influx of customers for both the business and the platform.
+
+For each star rating, we then analyze the average rating given by users and the number of reviews.
