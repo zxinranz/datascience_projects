@@ -170,5 +170,5 @@ For reviews that received more than 200 useful votes, there are a total of 138 r
 For reviews that received more than 100 useful votes, there are a total of 408 reviews. On average, these reviews gave the restaurant a rating of 2.4 stars, and the average length of these reviews is 1479 words.
 
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8710.png)
-![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8711.png)
-![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8712.png)
+![]()
+![]()
