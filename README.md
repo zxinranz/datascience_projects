@@ -131,3 +131,7 @@ These data can be used to explore user behavior and interactions on Yelp, gainin
 
 ## Data Analysis 
 ### Customer Dimension
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%871.png)
+Based on the latest registration date.
+On average, how many reviews does an ordinary user post per month since creating their account? How many reviews does an elite user post on average per month?
+![]()
