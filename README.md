@@ -169,6 +169,22 @@ For reviews that received more than 200 useful votes, there are a total of 138 r
 
 For reviews that received more than 100 useful votes, there are a total of 408 reviews. On average, these reviews gave the restaurant a rating of 2.4 stars, and the average length of these reviews is 1479 words.
 
+The regression plot titled "Highest Rating with increasing Useful" illustrates the trend of the highest rating (stars) as the number of useful tags in the reviews increases.
+
+The x-axis represents the thresholds of useful tags, ranging from 100 to 1000 with an interval of 20.
+
+The y-axis represents the corresponding highest rating values for each threshold. This plot helps us understand the relationship between the number of useful tags and the highest rating.
+
 ![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8710.png)
-![]()
-![]()
+![](https://github.com/zxinranz/img-folder/blob/main/%E6%88%AA%E5%B1%8F2023-06-12%20%E4%B8%8B%E5%8D%883.01.31.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E6%88%AA%E5%B1%8F2023-06-12%20%E4%B8%8B%E5%8D%883.01.42.png)
+
+#### Average star ratings of restaurants based on different scores given by users.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8713.png)
+
+#### Statistics of the star ratings for restaurants that have received 5-star reviews from users.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8714.png)
+
+#### The most frequently reviewed states by users.
