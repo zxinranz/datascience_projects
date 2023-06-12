@@ -236,3 +236,71 @@ It is noteworthy that there is a significant number of 5-star restaurants, with 
 On the other hand, the platform itself may be inclined to promote 5-star restaurants over those with a rating of 4.5 stars. This benefits the platform's advertising efforts since a perfect score serves as a compelling selling point compared to a rating of 4.5 stars. Additionally, restaurants that are actively promoted by the platform can offer exclusive deals or discounts on the Yelp platform, thereby reciprocating their appreciation to the platform and attracting a substantial influx of customers for both the business and the platform.
 
 For each star rating, we then analyze the average rating given by users and the number of reviews.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8725.png)
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8726.png)
+
+The upper graph shows a histogram depicting the average user rating as the restaurant's star rating changes. The trend line indicates that the average user rating increases with higher star ratings, showing a relatively uniform distribution that aligns with common expectations.<br>
+The lower graph represents the trend line of the number of user reviews as the restaurant's star rating changes. It exhibits a left-skewed distribution, with a peak at 4.0-star restaurants. This can be attributed to the fact that there are more restaurants with a 4.0-star rating, making them more accessible to users. It also indicates that 4.0-star restaurants are generally able to meet the daily dining, exploring, and socializing needs of most users.<br>
+Furthermore, the graph reveals that 5-star restaurants have fewer reviews, particularly in comparison to the larger pool of 5-star restaurants. Combining this observation with the earlier analysis, it suggests that the selection of 5-star restaurants is heavily influenced by the platform. This may be due to factors such as the generally higher prices and limited seating capacity associated with 5-star establishments.
+
+#### Which states have a higher number of restaurants?
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8727.png)
+
+The results are consistent with the most frequently reviewed states. The top two states account for 48.86% of all reviews, with Arizona at 29.91% and Nevada at 18.95%. The next highest-ranking states include North Carolina, Ohio, Pennsylvania, and others, aligning with the number of user reviews. For restaurants in these states, being established there means the potential for more user attention, but also signifies stronger competition among peers.
+
+In which states do five-star restaurants have a high proportion? Which states have a low rate of positive reviews for their restaurants? What is the relationship between these factors and geographical location?
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8728.png)
+
+From the chart, we can see that no state has a significantly high proportion of low-rated restaurants. The proportions of different star-rated restaurants, excluding five-star restaurants, fluctuate within a small range across states and are not directly related to the total number of restaurants in that state. Arizona and Nevada, which have a high number of restaurants, also have a higher proportion of five-star restaurants. This suggests that the selection of five-star restaurants is influenced by the state in which the restaurants are located. Both Arizona and Nevada are located in the southwest corner of the United States, have large land areas, and are adjacent to California and Hawaii. Yelp's headquarters is located in California. The coastal location of these two states and their proximity to the high population flow in neighboring California, as well as their relatively close distance to Yelp's headquarters, may have led to a focus on business development in these states by the platform. This, in turn, could result in a higher number of restaurants registered on the platform, including a larger proportion of five-star restaurants.
+
+#### How does the star rating of a restaurant relate to the number of days it is open?
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8729.png)
+
+The null data includes restaurants with missing data or closed, and can be disregarded. From the chart, we can observe that as the number of operating days increases, there is a significant increase in the quantity of higher-rated restaurants. This suggests that for ordinary restaurants, even without the ability to improve infrastructure, maintaining daily operations can positively impact the restaurant's reputation to a certain extent.
+
+Additionally, we can see that it is common for five-star restaurants to operate for 5, 6, or 7 days. Among restaurants with ratings ranging from 3 to 5 stars, the proportion of restaurants operating for 5 or 6 days gradually decreases as the star rating decreases. However, the majority of restaurants operating for 7 days fall into this category. This indicates that the star rating of a restaurant is not solely determined by its operating days. Other factors play a more significant role in addition to maintaining a minimum number of operating days (at least 5 days).
+
+### Platform Dimension
+#### Number of registered users by year
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8731.png)
+
+The number of registered users shows an increasing trend before 2014 and a decline after 2014. The year with the highest user growth is 2014, with an increase of 198,976 new users. The growth in new users in 2015 remained relatively stable, reaching 196,149. However, there is a noticeable decline in user growth after 2015.
+
+#### Number of registered users by month
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8732.png)
+
+Looking at the growth of new users by month, we can observe a peak around July. This is likely influenced by factors such as hot summer weather and a high concentration of holidays. During this period, people tend to dine out more frequently, which increases their desire and frequency of using the platform. As a result, there is an increased demand and usage of the software during this time.
+
+#### The number and proportion of elite customers by year are as follows:
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8733.png)
+
+Elite users have been selected since 2005. The number of users selected as elite has been increasing year by year, but the growth rate has remained relatively stable since 2008, fluctuating between 2000 and 6000, with a majority around 4000. This growth rate is significantly lower compared to the rate at which new users are joining the platform
+
+#### How is the user retention rate over the years? What about the retention rate for elite users?
+
+For all users, using the year of their reviews as an indicator of retention, we analyze the number of user IDs and the number of reviews per year over the past decade.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8734.png)
+
+Calculate the percentage of users who continue to post reviews in the following year among the users who posted reviews each year, as a measure of annual retention rate.
+
+![](https://github.com/zxinranz/img-folder/blob/main/%E5%9B%BE%E7%89%8735.png)
+
+The annual retention rate for regular users has remained around 30% over the past decade. Similarly, for elite users who were selected since the platform's inception, the annual retention rate has consistently stayed at around 80% since the following year, 2006. This demonstrates a high level of retention and is significantly higher than the annual retention rate for all users.
+
+## Conclusion 
+
+From a user perspective, one of the most important aspects may be how to quickly and efficiently earn the title of an elite user in order to enjoy the platform's additional benefits, such as more promotional activities and increased exposure. From an analytical standpoint, users first need to focus on generating a high number of comments and photos, particularly comments, as quantity plays an important role. For each comment, users should strive to provide informative content rather than simply focusing on stylistic aspects. It is more valuable to offer information that is relevant to the general public, and especially if users can identify issues with highly rated restaurants, their comments are more likely to attract attention from other users.<br>
+Residing in states such as Nevada and Arizona can also increase the likelihood of being selected as an elite user, as these states attract a larger flow of businesses and people. However, for regular users who are not concerned about becoming elite users, their ultimate goal on Yelp is to find restaurants that are delicious and meet their own preferences. Overall, the restaurant's star rating and user reviews generally align and can provide an indication of the restaurant's quality, allowing users to make informed choices. It's worth noting that five-star restaurants may sometimes have inflated ratings, so it's important to discern based on user feedback.
+
+From a business perspective, if merchants want to attract more customers, they can consider opening branches in larger states such as Nevada, Arizona, North Carolina, Ohio, and Pennsylvania. To upgrade to a five-star business, it is beneficial to focus on Arizona and Nevada in particular. In addition to ensuring a steady flow of customers and sufficient operating days, five-star restaurants also value other aspects that can be improved upon. It is crucial to reduce negative reviews. For restaurants that aim to maintain high ratings and pursue higher stars, the choice of location has less impact. However, it is advisable to have more operating days per week, and it is important to maintain a good review rating.
+
+From the platform's perspective, it still holds considerable attractiveness to existing users, as they continue to use the platform well. However, the registration of new users has been unfavorable year by year, requiring some measures to be taken. For example, during the summer when people prefer dining out, the platform can collaborate with restaurants to promote its software and conduct promotional activities. Additionally, the platform needs to address the declining trend in registrations, which may indicate saturation in the current business market. Expanding the business and promoting it to more states, and even more countries, can help the platform reach new heights. <br>
+For existing users, especially active regular users, the platform can introduce periodic activities that incentivize users to increase their engagement and earn benefits. The platform can also provide incentives for returning users based on their registration milestones and activity patterns. Furthermore, the platform can enhance the treatment of elite users to attract more users to meet the criteria for elite status.
